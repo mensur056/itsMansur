@@ -24,7 +24,7 @@
 </div>
 
 <div align="center">
-<a href="https://www.linkedin.com/in/mansur-sarxanov-b61606226/">
+<a href="https://github.com/mensur056">
     <img src="https://media.giphy.com/media/WLI9aB0Hvw8jEUjlN8/giphy.gif" width="200" alt="LinkedIn Badge"/>
   </a>
   </div>
